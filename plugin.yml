@@ -1,7 +1,0 @@
-name: COC
-main: me.EthanPlayz.COC.COC
-version: 1.0
-description: COC
-authors: [EthanPlayz]
-
-# plugin.yml is no longer used to define commands.
